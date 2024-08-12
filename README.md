@@ -1,3 +1,3 @@
-# Rubis
-Rubis Program in C/C++
+# Redis
+Redis Program in C/C++
 Work in Progress
